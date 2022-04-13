@@ -7,6 +7,6 @@ jdk:
 
 sudo: false
 
-scrpt:
+script:
 -mvn test
 -mvn evosuite:info
