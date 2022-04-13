@@ -40,6 +40,8 @@
 </dependencies>
 <build>
 
+
+
 <plugins>
 <plugin>
 <groupId>org.evosuite.plugins</groupId>
